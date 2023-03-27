@@ -3,6 +3,7 @@ RENCANA KONTEN BURUNG
 - Javascript
   *ES6
   *Framework Javascript
+- Struktur Data Kasar
 - PHP Framwork
 - Interview
 - Vlogs
