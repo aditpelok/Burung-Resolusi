@@ -4,6 +4,7 @@ RENCANA KONTEN BURUNG
   *ES6
   *Framework Javascript
    ^Vue
+   ^React
 - Struktur Data Kasar
 - PHP Framwork
   ^Laravel
