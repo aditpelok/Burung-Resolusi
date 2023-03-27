@@ -3,7 +3,10 @@ RENCANA KONTEN BURUNG
 - Javascript
   *ES6
   *Framework Javascript
+   ^Vue
 - Struktur Data Kasar
 - PHP Framwork
+  ^Laravel
 - Interview
 - Vlogs
+- Python
